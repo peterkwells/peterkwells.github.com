@@ -1,0 +1,115 @@
+---
+title: A crap analogy
+description: >-
+  I was home recently and took my sister’s dog for a walk. When we were young we
+  had dogs, Spud and Gyp, so it was a walk I’d taken before. A…
+date: '2017-12-29T17:50:46.847Z'
+categories: []
+keywords: []
+slug: /@peterkwells/a-crap-analogy-7b485e914d62
+---
+
+I was home recently and took my sister’s dog for a walk. When we were young we had dogs, Spud and Gyp, so it was a walk I’d taken before. A few things had changed. One was that there was less dog poo.
+
+![Me (left) taking my sister’s dog for a walk around [Fairhaven Lake](https://www.openstreetmap.org/way/163502305).](https://cdn-images-1.medium.com/max/600/1*0I8qNV4-VZtX6yHlTVQxJA.png)
+Me (left) taking my sister’s dog for a walk around [Fairhaven Lake](https://www.openstreetmap.org/way/163502305).
+
+It was strange comparing the memories of those messy streets, including muck left behind by Spud, to the reality of the present day with dog walkers cleaning up and signs warning of penalties if they did not. There has been a change in our social norms. In return for the right to walk a dog, most people now accepted they needed to clear up behind them.
+
+My day job is doing policy for the [Open Data Institute](https://theodi.org). Policy is about changing outcomes, hopefully for the better.
+
+On their own, legislation and guidance won’t fix challenges like [data ethics](https://theodi.org/blog/why-we-need-the-data-ethics-canvas), making data as openly available as possible, or the many other complex challenges that limit the social and economic value that societies get from data. It will need social change too.
+
+I’m interested in how that change happens, including how society decided dog walkers should clean up the dunghills created by dogs.
+
+#### People like having dogs, but dogs make a lot of shit
+
+I found a [blogpost](http://www.vetstreet.com/our-pet-experts/the-messy-history-of-poop-scooping) about a [book](https://www.thefreelibrary.com/New+York%27s+poop+scoop+law%3b+dogs%2c+the+dirt%2c+and+due+process.-a0196720396) by [Michael Brandow](http://www.michaelbrandow.com) telling the tale of the introduction of [a poop scooping law](http://law.onecle.com/new-york/public-health/PBH01310_1310.html) in New York City. I got a copy of the book and settled down for a read.
+
+![It would take a lot of rain to clean up 500,000 pounds of dog feces. (image [Taxi Driver](https://en.wikipedia.org/wiki/Taxi_Driver), copyright a big film company)](https://cdn-images-1.medium.com/max/600/1*05juQCtSzjGYK7A39tsvUQ.png)
+It would take a lot of rain to clean up 500,000 pounds of dog feces. (image [Taxi Driver](https://en.wikipedia.org/wiki/Taxi_Driver), copyright a big film company)
+
+People like having dogs (\*). They like having a companion. They like going for walks. Dogs can make people feel safer, particularly in a city that had as high a crime rate as 1970s New York. But dogs make a lot of shit (\*\*).
+
+In 1974 New York City’s Bureau of Animal Affairs estimated that 500,000 pounds of dog faeces were hitting the streets every day. The city’s population was growing. More people meant more dogs, more dog excrement and less space to step around it. That affected not just dog walkers but everyone else using the streets.
+
+This sounded analogous to the interweb’s superhighways. While some people are having fun, other people are stepping in the dog doo-doo we make. I read on.
+
+#### The dog doo-doo battle of many armies
+
+There was a long battle to clean up New York City, it lasted for most of the 1970s. The battle involved many familiar armies.
+
+There were a mix of civil society groups in the battle. Some wanted cleaner streets, others just wanted to keep walking their dogs, and some saw the opportunity for self-publicity. There were also people who didn’t care about the battle being waged under their feet.
+
+![A [search](https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=poop+scoop) on Amazon shows 1,357 results for ‘poop scoop’](https://cdn-images-1.medium.com/max/600/1*5ZdrTaA9mxg8KTi90ZW_xA.png)
+A [search](https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=poop+scoop) on Amazon shows 1,357 results for ‘poop scoop’
+
+There were businesses in the battle too. Some businesses simply wanted cleaner streets outside their shops. A pet food association objected to the final legislation because of the impact it might have on their customers, dog owners. Other businesses saw new opportunities. There was a boom in innovative, and probably disruptive, dirt cleaning solutions that continues to this day.
+
+![When dog owners look like their dogs is it correlation or causation? And which way is the causation? (source: [National Library of Ireland on the commons](https://www.flickr.com/photos/nlireland/6161910439/))](https://cdn-images-1.medium.com/max/600/1*S4dQXb9NDqdL8WS2awxSzQ.jpeg)
+When dog owners look like their dogs is it correlation or causation? And which way is the causation? (source: [National Library of Ireland on the commons](https://www.flickr.com/photos/nlireland/6161910439/))
+
+Different government organisations took positions. In 1970 a new city [Environmental Protection Agency had been created](https://ny.curbed.com/2017/2/23/14702890/nyc-environmental-protection-agency-history). Its leadership saw the opportunity to clear up a problem affecting citizens. Other organisations didn’t want the cost of enforcing new legislation and argued for others to take the lead.
+
+Some organisations seemed to see a chance to pass part of the cost, and blame, for cleaning the streets to dog walkers. I suspect many other government organisations were wondering why all this effort was being spent on canine coprolites.
+
+Meanwhile politicians were trying to navigate between all of these interest groups to tackle both this problem and others facing the city.
+
+#### Politicians talking crap
+
+Throughout the 1970s some argued that people could be persuaded to change behaviour without legislation through campaigns and leaflets. Both civil society groups and government organisations tried to do this and had some effect in parts of the city.
+
+![[A waste receiver for dogs](https://patents.google.com/patent/US4010970A/en?q=dog&inventor=John+r.+campbell)](https://cdn-images-1.medium.com/max/600/1*rz0sH4zjfqcH426wrjCM6A.png)
+[A waste receiver for dogs](https://patents.google.com/patent/US4010970A/en?q=dog&inventor=John+r.+campbell)
+
+Others said dogs should use bathrooms in houses, use different sides of the street on alternate days, or even be banned from the streets altogether. The mess caused by dogs risked all the enjoyment being taken away.
+
+Some dog walkers, government organisations and politicians said that it was government’s job to scoop the poop and that government should have more resources for street cleaning.
+
+There were politicians who thought that no legislation was needed as other problems took a higher priority. One politician said that he was keen for the legislation to happen as it would encourage city staff to focus on dogs rather than car parking fines. All politicians were heavily lobbied, by dog lovers and dog poo haters.
+
+I can see a common pattern here. Regardless of whether the policy is about data or doo-doo we need public debate to gather ideas and decide who has to do what, what resources they have to do it with, and whether they get paid for the doing.
+
+There was a campaign over public health issues with statements that an illness called [toxocariasis](https://en.wikipedia.org/wiki/Toxocariasis), which can be caused by worms in dog excrement, was causing loss of eyesight in children. This risk appears to have been significantly overstated, although it looks like incidents of [toxocariasis are reducing in the UK](https://www.gideononline.com/2014/02/14/toxocariasis-in-the-united-kingdom/) since dog waste laws were introduced there, but it was an effective campaign.
+
+The debate raged until [Ed Koch](https://en.wikipedia.org/wiki/Ed_Koch) became Mayor and took a different tack. Rather than having another go at getting a new law passed in New York City’s legislature, he took the problem to the politicians at the New York State Senate. At the state level politicians debated how different solutions are needed in cities to more rural areas and passed legislation that only affected large cities (\*\*\*). The [law](http://law.onecle.com/new-york/public-health/PBH01310_1310.html) gave the city the power to fine people who didn’t scoop their pooch’s poop.
+
+In all policy work sometimes you have to explore a few paths before you get to your goal.
+
+#### Clearing up dog shit is good for society
+
+Throughout the debate there was a common thread. A city that welcomed dogs but that had less dog faeces scattered around would be a better city.
+
+Dog owners enjoyed the company of their dogs, but other people in their local communities were affected by their enjoyment. Pavements, or sidewalks in NYC, are shared spaces. Use and misuse of that shared space affects everyone who lives in the city. After a debate dog owners were prepared to take on the task of clearing up some of their mess for the benefit of wider society.
+
+![A super pooper scooper sign in North Vancouver communicating the new social norm in multiple languages. Image via “New York’s poop scoop law: dogs, the dirt and due process” by [Michael Brandow](http://www.michaelbrandow.com)](https://cdn-images-1.medium.com/max/600/1*kPpXefug_ZNquZoZIwvAuQ.jpeg)
+A super pooper scooper sign in North Vancouver communicating the new social norm in multiple languages. Image via “New York’s poop scoop law: dogs, the dirt and due process” by [Michael Brandow](http://www.michaelbrandow.com)
+
+It is hard to know what was most effective — the debate, the civil society campaigns, the leaflets and signs, government loudly declaring that it had legislated, or the final push of fines. I’ve struggled to find good crap data. But the repeated legislative battles show us that NYC policymakers thought a law was required.
+
+The book includes [an interview](https://vet.purdue.edu/directory/person.php?id=64) saying that six years after the legislation was passed, 60% of dog owners were cooperating with the law. After a dog doo-doo battle which led to [legislation for England and Wales in 1996](http://www.legislation.gov.uk/ukpga/1996/20/section/1/1996-08-17?timeline=true), a larger shift in public behaviour was seen after more time had elapsed. A [study in 2014](http://clok.uclan.ac.uk/8939/) by three researchers from the University of Central Lancashire, 10 miles from my hometown, reported that [only 3% of British people would not pick up their dog’s poo](http://www.dailymail.co.uk/sciencetech/article-2604307/Scientists-estimate-British-canines-create-1-000-tonnes-waste-day-problem.html).
+
+The shift from the streets and dog walkers of my childhood to one where only 3% of British people will not pick up dog poo is a significant change for the better (\*\*\*\*). That is social change in action. Social change that made my walk a bit easier. Even though I now had to clear up after my sister’s dog everyone, including me, could enjoy the park a little bit more.
+
+But, does this tale teach us how to make data better?
+
+#### A crap analogy
+
+Well, not directly. The title of this blogpost wasn’t a joke. It is a crap analogy. Our motives for using data are different from the simple motives — have fun, feel safe- of walking a dog. Data is not like doggy doodah.
+
+![While data is not like doggy doodah, [Misha Rabinovich](http://misharabinovich.com/shareable_biome.html) has shown that you can use data about faeces to make art. This artwork is temporarily installed at the Open Data Institute for a 2018 exhibition. I wonder if it subliminally got me thinking about this blogpost.](https://cdn-images-1.medium.com/max/600/1*hvlualrfdzUqtQ7n1FR3ow.png)
+While data is not like doggy doodah, [Misha Rabinovich](http://misharabinovich.com/shareable_biome.html) has shown that you can use data about faeces to make art. This artwork is temporarily installed at the Open Data Institute for a 2018 exhibition. I wonder if it subliminally got me thinking about this blogpost.
+
+We can all agree what dog poo is, but we cannot all agree on the mess being created by how people are collecting, sharing and using data. We haven’t reached an agreement on what ‘good’ looks like and what outcome we are trying to achieve.
+
+Meanwhile although the data ecosystem contains many of the same actors — individuals, civil society groups, businesses, and government organisations — each with their own changing motives and power it is more than a physical city. There are multiple virtual global villages which manifest themselves in our physical towns, cities, nations and continents. Someone in the UK can create mess on a virtual street used by people in Uruguay, the Ukraine and Uganda. It is trickier to deliberately change social norms and create better outcomes in such a complex system.
+
+But the tale should remind us that given time and effort people are willing to change behaviour and reduce the negative impacts they have on other people. Do you need a New Year’s resolution for 2018? Let’s keep having fun with data, but let’s think more about other people and clean up some of the shit that we’re creating.
+
+_(\*) and other pets, such as cats, that also lead to interesting tales about_ [_data_](https://medium.com/@peterkwells/cat-data-is-complex-and-thats-ok-fb6a17e78536)
+
+_(\*\*) data about other swear words is_ [_available_](https://hackernoon.com/open-your-effing-data-de5b6e57f63e)
+
+_(\*\*\*) UK politicians and dog waste policymakers would possibly benefit from reading that 1978 New York State Senate debate as it seems that UK is still discovering that while bagging it and binning it works in cities, in more rural areas you need to_ [_stick it and flick it_](http://hansard.parliament.uk/Commons/2017-03-14/debates/EB380013-5820-42A0-A7B9-29FF672000CE/DogFouling#contribution-D0A38C73-205F-4D5B-88BA-B8CE5B088166)_._
+
+_(\*\*\*\*) despite the improvements_ [_some people_](http://news.bbc.co.uk/1/hi/magazine/7469369.stm) _want city streets that are completely clean of the odious dog ordure. You will regularly see news articles about towns and cities saying that they might use CCTV tracking, registration schemes, and dog DNA databases to catch offenders. A company called MrDogPoop claims to have “_[_the most powerful Dog Poop DNA matching database in the world_](http://www.mrdogpoop.com/dna_lab.html)_” to help track down poops that avoid the scoop. These city-wide schemes tend to disappear when people realise the cost and debate uncovers that a rover registration scheme is too much of a stretch to our social norms._
