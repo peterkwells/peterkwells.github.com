@@ -1,19 +1,16 @@
 ---
-title: Growing an open Labour Party
-description: >-
-  I was excited by the talk of opening up and modernising the Labour Party
-  during the leadership campaign.
-date: '2015-09-18T17:20:29.309Z'
-categories: []
-keywords: []
-slug: /@peterkwells/growing-an-open-labour-party-f4621a75b2e
+title:  Growing an open Labour Party
+categories:
+- UK politics
+feature_image: "https://picsum.photos/2560/600?image=872"
 ---
-
 I was excited by the talk of opening up and modernising the Labour Party during the leadership campaign.
 
 Both [Stella Creasy](http://www.theguardian.com/politics/2015/jun/05/stella-creasy-labour-needs-to-become-a-movement-not-a-machine), who has been [talking sense about this stuff for a while](http://www.newstatesman.com/politics/2014/10/stella-creasy-government-s-job-crowdsource-not-crowd-control), and [Tom Watson](https://www.flickr.com/photos/pkwflickr/19640183650/in/dateposted-public/) spoke about it at length in the deputy leader campaign.
 
 On Monday I got a little depressed when I saw the [job advert for a new Director of Digital for the Labour Party](http://www.w4mpjobs.org/JobDetails.aspx?jobid=52695) . It looked like a marketing job for yet another centralised political party. But then a couple of things happened to make me hopeful again:
+
+<!-- more -->
 
 1.  Jeremy Corbyn got Labour HQ to run a [crowd-sourcing campaign for his first PMQs](http://www.labour.org.uk/page/s/what-would-you-like-to-ask-david-cameron-). It’s not a [novel idea](http://www.parliament.uk/business/commons/the-speaker/speakers-commission-on-digital-democracy/) but it is an important one and it’s always lovely to see someone turn talking into doing.
 2.  James Darling, aka [@abscond](https://twitter.com/abscond), who worked on the Jeremy Corbyn campaign published a great piece on what he learnt during the campaign and some ideas on how to build an [open Labour](https://medium.com/@abscond/open-labour-ca0016a2fad3) party.
