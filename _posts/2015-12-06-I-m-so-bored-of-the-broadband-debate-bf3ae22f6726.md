@@ -1,17 +1,15 @@
 ---
 title: I’m so bored of the broadband debate
-description: >-
-  The papers and tech press are full of talk about broadband access. The price
-  of broadband. The number of homes with or without access…
-date: '2015-12-06T21:30:07.086Z'
-categories: []
-keywords: []
-slug: /@peterkwells/i-m-so-bored-of-the-broadband-debate-bf3ae22f6726
+categories:
+- General
+feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
 The papers and tech press are full of talk about broadband access. The price of broadband. The number of homes with or without access. Should every house have access? Should every house pay the same price?
 
 I’m not really bored of broadband. It is really important, But it feels like the wrong debate. We shouldn’t be debating mobile or Wi-Fi either.
+
+<!-- more -->
 
 We should be talking about and demanding internet access everywhere. [People](https://medium.com/@peterkwells/12-million-people-can-t-read-this-blog-54e82e8b19d3#.yuh1qiujp), cars, drones and even [cereal packets](http://blog.gardeviance.org/2015/04/so-amazon-fired-warning-shot-at.html?m=1) will all want to be connected to the internet. They probably won’t care _how_ they connect.
 

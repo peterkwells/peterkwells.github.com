@@ -1,12 +1,9 @@
 ---
-title: 'Momentum: openly including the far left.'
-description: '<FYI from 14 Nov 2015— this is fairly long, Buzzfeed version is here…'
-date: '2015-11-13T00:26:00.179Z'
-categories: []
-keywords: []
-slug: /@peterkwells/momentum-openly-including-the-far-left-66f4ee11368f
+title: Momentum: openly including the far left
+categories:
+- General
+feature_image: "https://picsum.photos/2560/600?image=872"
 ---
-
 <FYI from 14 Nov 2015— this is fairly long, Buzzfeed version is here [https://medium.com/@peterkwells/momentum-as-a-tech-startup-b7851601674a](https://medium.com/@peterkwells/momentum-as-a-tech-startup-b7851601674a)\>
 
 I joined the Labour Party when Tony Blair stood down.
@@ -14,6 +11,8 @@ I joined the Labour Party when Tony Blair stood down.
 I voted Labour before Tony Blair became leader but didn’t vote for it for quite a while afterwards. I knew the party was doing many [good things in government](http://www.progressonline.org.uk/content/uploads/2015/10/Bedtime_spreads.pdf) but, for me, the good was outweighed by the bad. The [authoritarian](https://en.wikipedia.org/wiki/Identity_Cards_Act_2006) (which leads to [violent](https://en.wikipedia.org/wiki/Iraq_War)) side of New Labour did not appeal to me. The side that thinks you can solve complex problems with [big solutions](https://en.wikipedia.org/wiki/NHS_Connecting_for_Health). That does things for people rather than [building with](http://www.buildwith.org) them.
 
 During that period it seemed you had to be New Labour or you couldn’t take part in Labour. I joined when I thought that period had ended.
+
+<!-- more -->
 
 Last year I did voluntary work for Labour. I found it complex and bewildering at first. Politics is **hard** because humans and the world are **marvellously and brilliantly complex**. I found most people I met to be honest, trustworthy and committed. Labour lost the general election. Earlier this year I found myself thinking of how to make [Labour more open and fit for the digital age](https://medium.com/@peterkwells/growing-an-open-labour-party-f4621a75b2e).
 

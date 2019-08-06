@@ -1,12 +1,8 @@
 ---
 title: I want to be an astronaut
-description: >-
-  Yesterday Tim Peake, Tim Kopra and Yuri Malenchenko went into space where they
-  will stay on the International Space Station (ISS). My first…
-date: '2015-12-17T00:14:47.162Z'
-categories: []
-keywords: []
-slug: /@peterkwells/i-want-to-be-an-astronaut-7fff7da24d8
+categories:
+- General
+feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
 Yesterday [Tim Peake, Tim Kopra and Yuri Malenchenko](http://www.esa.int/Our_Activities/Human_Spaceflight/Principia/ESA_astronaut_Tim_Peake_begins_six-month_stay_on_Space_Station) went into space where they will stay on the International Space Station (ISS). My first reaction was to say “I want to be an astronaut”.
@@ -17,6 +13,8 @@ Photo: ESA
 It’s true.
 
 I do want to be an astronaut.
+
+<!-- more -->
 
 That’s not just because I still have the dreams of a small kid (although that’s often true…) but because I believe the human race should be exploring space. Not just space stations but other planets and stars.
 

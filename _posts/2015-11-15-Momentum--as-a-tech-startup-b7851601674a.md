@@ -1,17 +1,15 @@
 ---
-title: 'Momentum: as a tech startup'
-description: >-
-  I’ve written a longer piece about my initial encounters with Momentum.
-  Momentum describes itself as a network of people and organisations…
-date: '2015-11-15T22:34:39.339Z'
-categories: []
-keywords: []
-slug: /@peterkwells/momentum-as-a-tech-startup-b7851601674a
+title: Momentum: as a tech startup
+categories:
+- General
+feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
 I’ve written [a longer piece](https://medium.com/@peterkwells/momentum-openly-including-the-far-left-66f4ee11368f) about my initial encounters with [Momentum](http://www.peoplesmomentum.com). Momentum describes itself as a network of people and organisations that will continue the energy and enthusiasm of [Jeremy \[Corbyn\]’s campaign for the Labour party leadership](http://www.jeremyforlabour.com). That piece looked at Momentum from the perspective of a Labour member. I was concerned at what I found.
 
 There’s another, more fun, way of looking at Momentum: they’re a tech startup that launched its product too quickly.
+
+<!-- more -->
 
 #### Momentum was founded by people who didn’t like the service they were getting from legacy products.
 
