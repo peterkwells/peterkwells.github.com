@@ -1,17 +1,15 @@
 ---
-title: 'Panama, open data, infrastructure data, open Panama'
-description: >-
-  We’ve been talking about the Panama Papers at the Open Data Institute. This
-  blog came from discussions with some of the lovely team there.
-date: '2016-04-07T11:49:10.987Z'
-categories: []
-keywords: []
-slug: /@peterkwells/panama-open-data-personal-data-open-panama-beef6cea76fc
+title: Panama, open data, infrastructure data, open Panama
+categories:
+- General
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
-_We’ve been talking about the Panama Papers at the_ [_Open Data Institute_](http://theodi.org)_. This blog came from discussions with some of the_ [_lovely team_](http://theodi.org/team) _there._
+We’ve been talking about the Panama Papers at the_ [Open Data Institute](http://theodi.org). This blog came from discussions with some of the [lovely team](http://theodi.org/team) there.
 
-_This part looks at the Panama Papers through the lens of data infrastructure, the_ [_second part looks at it through the lens of personal data and privacy_](https://medium.com/@peterkwells/panama-open-data-personal-data-open-panama-a402fd1a154d#.xxkmvhaj6)_._
+This part looks at the Panama Papers through the lens of data infrastructure, the [second part looks at it through the lens of personal data and privacy](https://medium.com/@peterkwells/panama-open-data-personal-data-open-panama-a402fd1a154d#.xxkmvhaj6).
+
+<!-- more -->
 
 The recent leak of [records from Mossack Fonseca, a tax firm specialising in offshore transactions](https://www.occrp.org/en/panamapapers/overview/intro/) (also known as “[the Panama Papers](https://en.wikipedia.org/wiki/Panama_Papers)”) has put the issue of how much people and corporations pay in tax on the front pages of our newspapers. The [Prime Minister of Iceland has resigned](http://www.nytimes.com/2016/04/06/world/europe/panama-papers-iceland.html?_r=0). The [Chinese government has censored online discussion](http://www.bbc.co.uk/news/world-asia-china-35957235). There have been [reactions and investigations across the world](https://en.wikipedia.org/wiki/Panama_Papers#Official_reactions_and_investigations).
 

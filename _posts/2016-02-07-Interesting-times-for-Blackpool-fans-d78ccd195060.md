@@ -1,15 +1,13 @@
 ---
 title: Interesting times for Blackpool fans
-description: >-
-  While the football is irrelevant this is still an ‘interesting time’ for fans
-  of Blackpool football club. There are ups and downs but…
-date: '2016-02-07T15:21:29.244Z'
-categories: []
-keywords: []
-slug: /@peterkwells/interesting-times-for-blackpool-fans-d78ccd195060
+categories:
+- General
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
 While [the football is irrelevant](http://www.wsc.co.uk/wsc-daily/1205-january-2016/13058-blackpool-s-on-field-improvements-irrelevant-to-fans) this is still an ‘[interesting time](https://en.wikipedia.org/wiki/May_you_live_in_interesting_times)’ for fans of Blackpool football club. There are ups and [downs](http://www.blackpoolgazette.co.uk/news/local/fan-jailed-for-blackpool-directors-box-threats-1-7695080) but despite their [appalling owner](https://en.wikipedia.org/wiki/Owen_Oyston), and against a background of continuing legal actions, there is a glimmer of hope. An upcoming meeting with the club provides a way to test how fast this progress will be.
+
+<!-- more -->
 
 [I made my choice a couple of years ago. I want change.](https://medium.com/@peterkwells/blackpool-fc-it-s-time-to-make-a-choice-9f3c30ad335f#.h2mjjkiuk) Like many other fans I will not go back to Blackpool football club whilst the current owners, the Oyston family, remain in charge. Their actions against the fans, the club and the town are unforgiveable. The Oystons need to go and we need fan ownership to help stop events like these happening again.
 

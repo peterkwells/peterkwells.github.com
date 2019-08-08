@@ -1,15 +1,8 @@
 ---
-title: >-
-  Bitcoin, money laundering, and the challenge that law faces in keeping up with
-  technology
-description: >-
-  I’m interested in the new organisational structures that blockchains, or other
-  forms of distributed ledger, might enable, the problems they…
-date: '2016-03-13T23:48:06.411Z'
-categories: []
-keywords: []
-slug: >-
-  /@peterkwells/bitcoin-money-laundering-and-the-challenge-that-law-faces-in-keeping-up-with-technology-13b6469b0dab
+title: Bitcoin, money laundering, and the challenge that law faces in keeping up with technology
+categories:
+- General
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
 I’m interested in the new organisational structures that blockchains, or other forms of distributed ledger, might enable, the problems they might solve and whether solving those problems can help make the world better. Bitcoin is enabled by one type of blockchain. As [Jeni Tennison of the Open Data Institute](http://theodi.org) [explained](http://www.cityam.com/232810/blockchain-technology-is-useful-but-not-for-everything):
@@ -17,6 +10,8 @@ I’m interested in the new organisational structures that blockchains, or other
 > Blockchains provide a way to store information so that many people can see it, keep a copy of it, and add to it. Once added, it is very difficult to remove information, which can reinforce trust in a blockchain’s content.
 
 > Bitcoins are a form of digital currency and blockchains were originally designed as a system to manage them. Within the Bitcoin system anyone can access and add information (such as what Bitcoins are used for, where they were spent and when) to the blockchain.
+
+<!-- more -->
 
 Someone (\*) told me a theory about bitcoin the other week. I don’t know if the theory is right, or even close to right, but it reminded me of something I’ve come across before. A familiar, although slightly different, pattern. This kind of [pattern matching](https://en.wikipedia.org/wiki/Pattern_recognition_%28psychology%29?wprov=sfla1) is common in humans. It can help us grasp new concepts quickly. Sometimes it can also lead us [astray](https://en.wikipedia.org/wiki/Apophenia?wprov=sfla1). Given the pace of legal frameworks that can be a bad thing.
 

@@ -1,22 +1,19 @@
 ---
-title: >-
-  The FA, the Football League, Lancashire Police and Blackpool FC have failed
+title:   The FA, the Football League, Lancashire Police and Blackpool FC have failed
   Huddersfield fans
-description: >-
-  In 2015 Blackpool FC were relegated from English football’s second division
-  after a season of humiliation on the pitch and a series of…
-date: '2015-12-31T15:37:55.277Z'
-categories: []
-keywords: []
-slug: >-
-  /@peterkwells/the-fa-the-football-league-lancashire-police-and-blackpool-fc-have-failed-hudderfield-fans-576f5b5771ec
+categories:
+- General
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
+
 
 In 2015 Blackpool FC were relegated from English football’s second division after [a season of humiliation on the pitch](https://en.wikipedia.org/wiki/2014–15_Blackpool_F.C._season) and a series of disgraceful actions by the owners, the Oyston family. Newspapers [across](http://www.nytimes.com/2015/05/03/sports/soccer/as-blackpool-fcs-failures-grow-so-does-fans-displeasure.html?_r=0) [the](http://www.theguardian.com/football/blog/2015/may/02/karl-oyston-blackpool-tangerine-nightmare-stan-mortenson) [world](http://www.dailymail.co.uk/sport/football/article-3065288/Blackpool-fans-stop-match-against-Huddersfield-protest-against-Karl-Oyston.html) reported on the season and the Oyston family’s actions.
 
 Blackpool currently sit at 18th place in the third division. Fans, led by [the Blackpool Supporters Trust](http://www.blackpoolsupporterstrust.org), are focussed on removing the owners and turning Blackpool into [a fan-owned club](https://medium.com/@peterkwells/make-a-new-year-resolution-boycott-blackpool-fc-to-help-save-it-b2ab9b8217fd#.gn6u6r1mj).
 
 The last home game of the 2015 season was against Huddersfield Town. It was [abandoned following a pitch invasion by 100–200 Blackpool fans](http://www.bbc.com/sport/0/football/32737770).
+
+<!-- more -->
 
 The moment when a Blackpool fan on a mobility scooter joined the protesters on the pitch. Video by Daniel Moran standard Youtube Licence
 

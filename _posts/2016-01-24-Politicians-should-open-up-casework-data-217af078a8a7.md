@@ -1,17 +1,15 @@
 ---
 title: Politicians should open up casework data
-description: >-
-  Would it be useful to know whether complaints about welfare payments are
-  rising or falling? Or to understand more about the jobs that our…
-date: '2016-01-24T23:31:00.749Z'
-categories: []
-keywords: []
-slug: /@peterkwells/politicians-should-open-up-casework-data-217af078a8a7
+categories:
+- General
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
 Would it be useful to know whether complaints about welfare payments are rising or falling? Or to understand more about the jobs that our politicians do?
 
 There is data that can help answer both of these questions and many others. Unfortunately it’s not open.
+
+<!-- more -->
 
 If this data was open we could make more informed decisions about where to target housing support, how to improve our welfare system or who to vote for.
 

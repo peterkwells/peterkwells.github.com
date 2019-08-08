@@ -1,14 +1,13 @@
 ---
 title: Football attendance figures are inaccurate and don’t tell the whole story
-description: "It can be useful to know how many people attend a football match but the official figures\_are\_not\_accurate. Blackpool fans have been…"
-date: '2016-03-28T14:21:03.482Z'
-categories: []
-keywords: []
-slug: >-
-  /@peterkwells/football-attendance-figures-are-inaccurate-and-don-t-tell-the-whole-story-b4e3f4859648
+categories:
+- General
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
 It can be useful to know how many people attend a football match but the official figures are not accurate. Blackpool fans have been collecting data and working out more accurate attendance figures for their team. They hope it will help them oust the football club’s owners and help a fan-owned club to emerge. The footballing authorities should encourage clubs to publish the more accurate data that they already collect. In the meantime the technique could help fans of other clubs.
+
+<!-- more -->
 
 #### Lots of people want to know attendance figures but it is not easy to get hold of accurate data
 

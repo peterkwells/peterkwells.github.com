@@ -1,17 +1,15 @@
 ---
-title: 'Panama, open data, personal data, open Panama'
-description: >-
-  We’ve been talking about the Panama Papers at the Open Data Institute. This is
-  the second part of a blog that came from discussions with…
-date: '2016-04-08T13:05:52.524Z'
-categories: []
-keywords: []
-slug: /@peterkwells/panama-open-data-personal-data-open-panama-a402fd1a154d
+title: Panama, open data, personal data, open Panama
+categories:
+- General
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
-_We’ve been talking about the Panama Papers at the_ [_Open Data Institute_](http://theodi.org)_. This is the second part of a blog that came from discussions with some of the_ [_lovely team_](http://theodi.org/team) _there._
+We’ve been talking about the Panama Papers at the [Open Data Institute](http://theodi.org). This is the second part of a blog that came from discussions with some of the [lovely team](http://theodi.org/team) there.
 
-_The_ [_first part looked at the Panama Papers through the lens of data infrastructure_](https://medium.com/p/beef6cea76fc/)_. This, the second part, looks at it through the lens of personal data and privacy._
+The [first part looked at the Panama Papers through the lens of data infrastructure ](https://medium.com/p/beef6cea76fc/). This, the second part, looks at it through the lens of personal data and privacy.
+
+<!-- more -->
 
 The [Panama Papers](https://en.wikipedia.org/wiki/Panama_Papers) are not [open data](http://theodi.org/data-spectrum). They contain leaked, or [hacked](http://www.wired.co.uk/news/archive/2016-04/06/panama-papers-mossack-fonseca-website-security-problems), information some of which has been placed in the public domain, but it is clearly an important story and one where data plays a vital role and where openness can help improve trust.
 

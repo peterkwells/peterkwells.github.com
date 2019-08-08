@@ -1,13 +1,8 @@
 ---
 title: The Blackpool Fans' Progress Group are undemocratic and unrepresentative
-description: >-
-  Thousands of supporters are choosing to boycott Blackpool football club
-  because of the appalling actions of its current owners, the Oyston…
-date: '2016-02-14T22:41:52.786Z'
-categories: []
-keywords: []
-slug: >-
-  /@peterkwells/the-blackpool-fan-s-progress-group-are-undemocratic-and-unrepresentative-15a56ef70942
+categories:
+- General
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
 Thousands of supporters are [choosing to boycott Blackpool football club](https://medium.com/@peterkwells/blackpool-fc-it-s-time-to-make-a-choice-9f3c30ad335f#.vehpnlfge) because of the appalling actions of its current owners, the [Oyston](https://en.wikipedia.org/wiki/Karl_Oyston) [family](https://en.wikipedia.org/wiki/Owen_Oyston).
@@ -15,6 +10,8 @@ Thousands of supporters are [choosing to boycott Blackpool football club](https:
 Over the last three years nearly 2000 fans have chosen to join the [Blackpool Supporters Trust](https://blackpoolsupporterstrust.org) (BST). Anyone can [join](https://blackpoolsupporterstrust.org/civicrm/contribute/transact?reset=1&id=1). The trust is democratically run by its members. The trust’s committee is elected by its members. The club has refused to speak to the trust, and the fans that it represents, despite [three years of attempts](http://www.backhenrystreet.co.uk/thread-29022.html#.VroutoQ5RAZ).
 
 The club decided to set up its own group. The Blackpool Fans’ Progress Group (FPG). This group has 6 members. They were selected by the club’s staff. They do not represent the fans.
+
+<!-- more -->
 
 Some people seem to think the FPG is a legitimate way for the club to engage the fans, a bit of basic research shows this isn’t the case. Here are some links and some of the FPG’s own words. Any Blackpool fan can point at this post to help explain to any politician or journalist that the FPG is undemocratic and unrepresentative.
 

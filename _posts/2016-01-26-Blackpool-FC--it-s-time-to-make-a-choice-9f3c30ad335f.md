@@ -1,12 +1,8 @@
 ---
-title: 'Blackpool FC: it’s time to make a choice'
-description: >-
-  Thousands of Blackpool fans are boycotting their football club, because of the
-  owners, the Oyston family. Many will not go back whilst the…
-date: '2016-01-26T21:28:58.476Z'
-categories: []
-keywords: []
-slug: /@peterkwells/blackpool-fc-it-s-time-to-make-a-choice-9f3c30ad335f
+title: Blackpool FC: it’s time to make a choice
+categories:
+- General
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
 Thousands of Blackpool fans are boycotting their football club, because of the owners, the [Oyston](https://en.wikipedia.org/wiki/Owen_Oyston) [family](https://en.wikipedia.org/wiki/Karl_Oyston). Many will not go back whilst the Oystons own the club. We don’t care if the team do well, [it’s irrelevant](http://www.wsc.co.uk/wsc-daily/1205-january-2016/13058-blackpool-s-on-field-improvements-irrelevant-to-fans).
@@ -14,6 +10,8 @@ Thousands of Blackpool fans are boycotting their football club, because of the o
 The fans have been complaining about the Oystons for a long time. As Karl Oyston said after protests in 2008:
 
 > [it’s been the case ever since I first arrived here when there were people marching around with coffins and banners slung from motorway bridges on the M55](http://news.bbc.co.uk/sport1/hi/football/teams/b/blackpool/7426132.stm)
+
+<!-- more -->
 
 ![[In 2014](http://www.blackpoolgazette.co.uk/news/local/fans-stage-funeral-in-anti-oyston-rally-1-6518173) Blackpool fans recreated the coffin march from the 90s . Photo by Chris Vaughan/CameraSport](https://cdn-images-1.medium.com/max/600/1*7BWah3eerT7XYyBHzF6DDQ.png)
 [In 2014](http://www.blackpoolgazette.co.uk/news/local/fans-stage-funeral-in-anti-oyston-rally-1-6518173) Blackpool fans recreated the coffin march from the 90s . Photo by Chris Vaughan/CameraSport

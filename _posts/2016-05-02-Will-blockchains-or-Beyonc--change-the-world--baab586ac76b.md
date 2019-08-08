@@ -1,21 +1,19 @@
 ---
 title: Will blockchains or Beyoncé change the world?
-description: >-
-  A version of this post, with minor changes, was originally published back in
-  January 2016 at Marketing Magazine.
-date: '2016-05-02T14:53:34.597Z'
-categories: []
-keywords: []
-slug: /@peterkwells/will-blockchains-or-beyonc%C3%A9-change-the-world-baab586ac76b
+categories:
+- General
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
-_A version of this post, with minor changes, was_ [_originally published back in January 2016 at Marketing Magazine_](http://www.marketingmagazine.co.uk/article/1380785/will-blockchain-beyonce-change-world)_._
+A version of this post, with minor changes, was [_originally published back in January 2016 at Marketing Magazine_](http://www.marketingmagazine.co.uk/article/1380785/will-blockchain-beyonce-change-world).
 
-_My thinking on blockchains has evolved but it is clear that many of the current ideas flying around are still nonsense whilst others show a lack of awareness of the damage that could be caused by loss of privacy or an undebated transfer of power by control over the blockchain and the data it holds._
+My thinking on blockchains has evolved but it is clear that many of the current ideas flying around are still nonsense whilst others show a lack of awareness of the damage that could be caused by loss of privacy or an undebated transfer of power by control over the blockchain and the data it holds.
 
-_As James Smith of the Open Data Institute said in_ [_this lecture in March 2016_](https://www.youtube.com/watch?v=I62R554ZSP0) _we risk good ideas and good uses of blockchains and other forms of distributed ledger dying in the hype cycle. We also risk wasting a lot of money on marketing ideas._
+<!-- more -->
 
-_It would help us all if we were more wary of hype and helped blockchains, and other technologies, progress through the hype cycle._
+As James Smith of the Open Data Institute said in_ [_this lecture in March 2016_](https://www.youtube.com/watch?v=I62R554ZSP0) we risk good ideas and good uses of blockchains and other forms of distributed ledger dying in the hype cycle. We also risk wasting a lot of money on marketing ideas.
+
+It would help us all if we were more wary of hype and helped blockchains, and other technologies, progress through the hype cycle.
 
 Blockchain was only invented in 2008, starting off as technology to underpin the [cryptocurrency bitcoin](https://en.wikipedia.org/wiki/Bitcoin), but it’s rapidly becoming famous.
 

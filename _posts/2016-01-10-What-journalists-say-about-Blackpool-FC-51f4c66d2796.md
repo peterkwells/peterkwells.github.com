@@ -1,15 +1,13 @@
 ---
 title: What journalists say about Blackpool FC
-description: >-
-  Thousands of Blackpool fans are boycotting their football club, because of the
-  owners, the Oyston family. They will not go back whilst the…
-date: '2016-01-10T19:32:45.902Z'
-categories: []
-keywords: []
-slug: /@peterkwells/what-journalists-say-about-blackpool-fc-51f4c66d2796
+categories:
+- General
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
 Thousands of Blackpool fans are [boycotting their football club](https://medium.com/@peterkwells/make-a-new-year-resolution-boycott-blackpool-fc-to-help-save-it-b2ab9b8217fd#.5p7v63xxn), because of the owners, the Oyston [family](https://en.wikipedia.org/wiki/Karl_Oyston). They will not go back whilst the Oystons own the club.
+
+<!-- more -->
 
 Many [football professionals](https://medium.com/@peterkwells/what-football-professionals-think-of-blackpool-fc-5c3f046fdbe8#.oyodjb8t4) have joined the fans in speaking out about the appalling behaviour and dreadful management of the club the Oystons.
 

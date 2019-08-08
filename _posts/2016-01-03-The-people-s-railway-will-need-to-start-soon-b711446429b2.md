@@ -1,15 +1,13 @@
 ---
 title: The people’s railway will need to start soon
-description: >-
-  Railway ticket prices in the UK have risen by 25% in the last 5 years. This
-  yearly rise in prices, and continued complaints over…
-date: '2016-01-03T18:59:23.263Z'
-categories: []
-keywords: []
-slug: /@peterkwells/the-people-s-railway-will-need-to-start-soon-b711446429b2
+categories:
+- General
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
 Railway ticket prices in the UK have risen by [25% in the last 5 years](http://www.dailymail.co.uk/news/article-3381771/Latest-1-1-rail-fare-rises-mean-commuters-paying-25-season-tickets-Cameron-PM-campaigners-claim-firms-divorced-reality.html). This yearly rise in prices, and continued complaints over [punctuality](http://theodi.org/summer-showcase-visualising-rail-disruption), has led to the usual yearly rise in news stories about the UK’s railways.
+
+<!-- more -->
 
 There were [1.6 billion passenger rail journeys in the last 3 months](http://dataportal.orr.gov.uk/browsereports/12). In addition to passenger journeys railways also transport the food we eat, the material that is used to build our houses and our post and parcels around the country. More than [190,000 people work on the railways](http://www.stagecoach.com/~/media/Files/S/Stagecoach-Group/Attachments/pdf/rail-industry-faqs.pdf) to deliver these services.
 

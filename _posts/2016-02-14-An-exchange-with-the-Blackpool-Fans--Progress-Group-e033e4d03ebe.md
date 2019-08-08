@@ -1,15 +1,15 @@
 ---
 title: An exchange with the Blackpool Fans’ Progress Group
-description: I dropped an email to the Blackpool Fans’ Progress Group (FPG) last week.
-date: '2016-02-14T00:42:20.228Z'
-categories: []
-keywords: []
-slug: /@peterkwells/an-exchange-with-the-blackpool-fans-progress-group-e033e4d03ebe
+categories:
+- General
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
 I dropped an email to the [Blackpool Fans’ Progress Group (FPG)](http://www.blackpoolfpg.co.uk) last week.
 
 The FPG responded within a couple of days. I’m grateful to them for responding so fast.
+
+<!-- more -->
 
 The FPG are a strange beast. [Three of the four people on the initial selection panel](http://www.blackpoolgazette.co.uk/sport/blackpool-fc/pool-latest/trio-withdraw-from-bfc-fans-parliament-process-1-7333039) withdrew from the selection process. The [club’s staff personally selected the twelve people who eventually joined the group](http://www.blackpoolfpg.co.uk/#!our-formation/c4t6f). [Four of the initial twelve members quit after a single meeting with the chairman, Karl Oyston](http://www.blackpoolgazette.co.uk/sport/blackpool-fc/pool-latest/four-quit-oyston-fan-group-after-just-one-meeting-1-7504465).
 

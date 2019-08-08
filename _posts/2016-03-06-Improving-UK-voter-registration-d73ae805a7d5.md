@@ -1,15 +1,15 @@
 ---
 title: Improving UK voter registration
-description: Voter registration is a problem in the UK.
-date: '2016-03-06T23:34:38.009Z'
-categories: []
-keywords: []
-slug: /@peterkwells/improving-uk-voter-registration-d73ae805a7d5
+categories:
+- General
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
 Voter registration is a problem in the UK.
 
 If we [opened up aggregated data](http://theodi.org/what-is-open-data) and registration APIs then we could build a network of services to help get people registered. As a result we would get more people registered and, hopefully, more people voting in our elections.
+
+<!-- more -->
 
 #### Millions of people are not registered to vote
 

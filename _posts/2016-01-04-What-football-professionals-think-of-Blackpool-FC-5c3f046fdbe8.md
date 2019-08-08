@@ -1,17 +1,15 @@
 ---
 title: What football professionals think of Blackpool FC
-description: >-
-  At the weekend the current manager of Blackpool FC, Neil McDonald, criticised
-  the fans of Blackpool FC saying:
-date: '2016-01-04T22:19:42.236Z'
-categories: []
-keywords: []
-slug: /@peterkwells/what-football-professionals-think-of-blackpool-fc-5c3f046fdbe8
+categories:
+- General
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
 At the weekend the current manager of Blackpool FC, [Neil McDonald, criticised the fans of Blackpool FC saying](http://www.blackpoolgazette.co.uk/sport/blackpool-fc/pool-latest/mcdonald-turns-on-angry-blackpool-fans-1-7653686):
 
 > the support needs to be better. They shouldn’t be shouting about their issues throughout the whole game. That’s all I’m hearing.
+
+<!-- more -->
 
 ![Excerpt of league table (c) BBC](https://cdn-images-1.medium.com/max/600/1*1VGZkfDdkGU7zQOuIavRmA.png)
 Excerpt of league table (c) BBC

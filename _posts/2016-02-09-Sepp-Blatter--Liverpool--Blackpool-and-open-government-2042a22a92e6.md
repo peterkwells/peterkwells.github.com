@@ -1,18 +1,15 @@
 ---
-title: 'Sepp Blatter, Liverpool, Blackpool and open government'
-description: >-
-  At the weekend 10,000 Liverpool fans marched out of Anfield in a protest
-  against ticket prices and it was reported that Sepp Blatter is…
-date: '2016-02-09T20:33:27.391Z'
-categories: []
-keywords: []
-slug: >-
-  /@peterkwells/sepp-blatter-liverpool-blackpool-and-open-government-2042a22a92e6
+title: Sepp Blatter, Liverpool, Blackpool and open government
+categories:
+- General
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
 At the weekend [10,000 Liverpool fans marched out of Anfield in a protest against ticket prices](http://www.theguardian.com/football/2016/feb/08/fsf-premier-league-clubs-walkout-ticket-prices) and it was reported that [Sepp Blatter is continuing his campaign to make mischief for football’s global governing body Fifa](http://www.worldsoccer.com/columnists/keir-radnedge/chaos-beckons-as-blatter-continues-to-make-mischief-368397#Oiw56RsGfsXGJkkL.99).
 
 The two incidents are connected and, strangely enough, the connection is the Lancashire town of Blackpool and the [global movement of open government](http://www.opengovpartnership.org).
+
+<!-- more -->
 
 #### Sept Blatter, Fifa and open government
 
