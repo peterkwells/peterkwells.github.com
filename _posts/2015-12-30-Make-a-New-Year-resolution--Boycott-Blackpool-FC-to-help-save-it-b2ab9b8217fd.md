@@ -1,18 +1,15 @@
 ---
-title: 'Make a New Year resolution: Boycott Blackpool FC to help save it'
-description: >-
-  Blackpool Football Club are near the bottom of the third division and failing
-  fast.
-date: '2015-12-30T12:35:11.303Z'
-categories: []
-keywords: []
-slug: >-
-  /@peterkwells/make-a-new-year-resolution-boycott-blackpool-fc-to-help-save-it-b2ab9b8217fd
+title: Make a New Year resolution: Boycott Blackpool FC to help save it
+categories:
+- General
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
 Blackpool Football Club are near the bottom of the third division and failing fast.
 
 They are not just failing on the pitch and falling down the league, they are failing their fans, the town and the wider footballing community. The behaviour of the club’s owners, the [Oyston family](https://en.wikipedia.org/wiki/Owen_Oyston), is gobsmacking.
+
+<!-- more -->
 
 ![Karl Oyston, the chairman of Blackpool FC, [posing by a poster protesting](http://2244480991.jpg) against the way that the Oyston family run the club.](https://cdn-images-1.medium.com/max/600/1*KkeB3CIjvzEuq0cghJIYEA.jpeg)
 Karl Oyston, the chairman of Blackpool FC, [posing by a poster protesting](http://2244480991.jpg) against the way that the Oyston family run the club.

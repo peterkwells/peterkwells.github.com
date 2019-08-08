@@ -2,7 +2,7 @@
 title: I’m so bored of the broadband debate
 categories:
 - General
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
 The papers and tech press are full of talk about broadband access. The price of broadband. The number of homes with or without access. Should every house have access? Should every house pay the same price?

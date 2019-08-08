@@ -1,17 +1,15 @@
 ---
-title: 12 million UK adults can’t read this blog.
-description: >-
-  Nearly one in four of the UK adult population, about 12 million people, are
-  what is termed ‘digitally excluded’. They cannot perform basic…
-date: '2015-11-22T21:32:33.889Z'
-categories: []
-keywords: []
-slug: /@peterkwells/12-million-people-can-t-read-this-blog-54e82e8b19d3
+title: 12 million UK adults can’t read this blog
+categories:
+- General
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
 Nearly one in four of the UK adult population, about 12 million people, are what is termed ‘[digitally excluded](http://www.theguardian.com/news/datablog/2015/oct/19/map-shows-parts-of-uk-most-excluded-from-digital-world)’. They cannot perform basic tasks on the internet. Many others might have the skills but are excluded because they cannot get on the internet: because the infrastructure isn’t there or because they can’t afford it.
 
 The digitally excluded, about 12 million people, will get little to no benefit from some of the services that people who are brilliant at the internet are building unless they get assistance to use them.
+
+<!-- more -->
 
 When I talk to people about digital exclusion I find that the simple statistic that one in four UK adults, about 12 million people, cannot perform basic tasks online is astonishing to many. That is part of the reason I’m writing this blog. We should be aware of this fact.
 

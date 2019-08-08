@@ -2,7 +2,7 @@
 title: Momentum: as a tech startup
 categories:
 - General
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
 I’ve written [a longer piece](https://medium.com/@peterkwells/momentum-openly-including-the-far-left-66f4ee11368f) about my initial encounters with [Momentum](http://www.peoplesmomentum.com). Momentum describes itself as a network of people and organisations that will continue the energy and enthusiasm of [Jeremy \[Corbyn\]’s campaign for the Labour party leadership](http://www.jeremyforlabour.com). That piece looked at Momentum from the perspective of a Labour member. I was concerned at what I found.

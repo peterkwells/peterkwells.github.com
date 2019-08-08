@@ -1,17 +1,15 @@
 ---
 title: A data perspective on the IP bill
-description: >-
-  Recently the UK Government issued a draft of legislation that would alter its
-  powers to investigate illegal activity on the internet: the…
-date: '2015-12-22T09:31:11.569Z'
-categories: []
-keywords: []
-slug: /@peterkwells/a-data-perspective-on-the-ip-bill-99b349ec3e8f
+categories:
+- General
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
 Recently the UK Government issued a draft of legislation that would alter its powers to investigate illegal activity on the internet: the [Investigatory Powers (IP) bill](https://www.gov.uk/government/publications/draft-investigatory-powers-bill). The draft is being debated in committee, in public and will be debated in Parliament before a decision is made on the final text.
 
 I have chosen to consider the IP Bill through the prism of data. The bill is lengthy and hard to unpick but it moves large datasets from closed to shared on the data spectrum. Sometimes with unclear ownership and governance.
+
+<!-- more -->
 
 As a whole the bill creates risks to our economy and privacy with the aim of increasing our security. We risk causing significant damage as a result.
 

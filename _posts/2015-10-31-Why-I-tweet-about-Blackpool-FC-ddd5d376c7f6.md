@@ -2,7 +2,7 @@
 title: Why I tweet about Blackpool FC
 categories:
 - General
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
 Last week someone asked me “Why do you tweet about Blackpool FC so much?”. I gave them my usual answer.

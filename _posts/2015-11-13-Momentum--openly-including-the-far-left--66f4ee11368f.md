@@ -2,7 +2,7 @@
 title: Momentum: openly including the far left
 categories:
 - General
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 <FYI from 14 Nov 2015— this is fairly long, Buzzfeed version is here [https://medium.com/@peterkwells/momentum-as-a-tech-startup-b7851601674a](https://medium.com/@peterkwells/momentum-as-a-tech-startup-b7851601674a)\>
 

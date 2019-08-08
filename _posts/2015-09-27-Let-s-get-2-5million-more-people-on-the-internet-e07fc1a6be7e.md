@@ -2,7 +2,7 @@
 title: Let’s get 2.5million more people on the internet
 categories:
 - General
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
 During the Summer of 2015 it was announced that the BBC would pay for a free television licence for everyone in the UK over the age of 75. [In 2013–14 the cost of providing a free licence to the over-75s was £608m](http://www.bbc.co.uk/news/uk-politics-33414693). The cost in 2013–14 was paid by a different bit of the public sector.

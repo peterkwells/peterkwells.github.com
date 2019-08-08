@@ -2,7 +2,7 @@
 title: I want to be an astronaut
 categories:
 - General
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
 Yesterday [Tim Peake, Tim Kopra and Yuri Malenchenko](http://www.esa.int/Our_Activities/Human_Spaceflight/Principia/ESA_astronaut_Tim_Peake_begins_six-month_stay_on_Space_Station) went into space where they will stay on the International Space Station (ISS). My first reaction was to say “I want to be an astronaut”.
