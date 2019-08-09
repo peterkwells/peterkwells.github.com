@@ -1,16 +1,13 @@
 ---
 title: Building financial data infrastructure through open banking
-description: >-
-  Notes from a speech at a Thomson Reuters-hosted ODI Futures events on the
-  future of financial data infrastructure. The event also included…
-date: '2016-06-14T12:54:50.738Z'
-categories: []
-keywords: []
-slug: >-
-  /@peterkwells/building-financial-data-infrastructure-through-open-banking-f2a002fe7eb1
+categories:
+- General
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
-_Notes from a speech at a_ [_Thomson Reuters_](http://thomsonreuters.com/en.html)_\-hosted_ [_ODI Futures_](http://theodi.org) _events on the future of financial data infrastructure. The event also included the launch of an_ [_ODI Labs paper on blockchain technology_](http://theodi.org/technical-report-blockchain-technology-in-global-data-infrastructure)_._
+Notes from a speech at a [Thomson Reuters](http://thomsonreuters.com/en.html)_\-hosted [_ODI Futures_](http://theodi.org) events on the future of financial data infrastructure. The event also included the launch of an [_ODI Labs paper on blockchain technology_](http://theodi.org/technical-report-blockchain-technology-in-global-data-infrastructure).
+
+<!-- more -->
 
 [Data is infrastructure](http://theodi.org/data-infrastructure). Just like roads. Roads help us navigate to a location, data helps us make a decision. In the industrial revolution we learnt how to build good road infrastructure. In the digital revolution we need to learn how to build good data infrastructure.
 

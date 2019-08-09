@@ -3,7 +3,9 @@ title: Some words and questions
 feature_text: |
 
 feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
-excerpt: "Hello. This is the personal website of Peter Wells. It's mostly used for blogposts.
+excerpt:
+
+"Hello. This is the personal website of Peter Wells. It's mostly used for blogposts.
 
 I am Director of Public Policy at the [Open Data Institute (ODI)](https://theodi.org).
 

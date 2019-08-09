@@ -1,20 +1,17 @@
 ---
 title: Widening debate on Greater Manchester’s data sharing strategy
-description: >-
-  Greater Manchester is one of the first UK city-regions to move ahead with a
-  new city devolution deal. Other city-regions may follow their…
-date: '2016-05-15T14:24:44.702Z'
-categories: []
-keywords: []
-slug: >-
-  /@peterkwells/widening-debate-on-greater-manchesters-data-sharing-strategy-f864fe1257a0
+categories:
+- General
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
-_Greater Manchester is one of the first UK city-regions to move ahead with a new city devolution deal. Other city-regions may follow their lead. As part of their devolution deal the public sector organisations in Greater Manchester are considering how to use data to improve public services. Part of this thinking has a strong focus on data sharing through a new organisation called GM-Connect. A_ [_press release_](https://www.greatermanchester-ca.gov.uk/news/article/39/pioneering_data_service_to_connect_greater_manchester_to_improved_services) _and_ [_report_](https://t.co/T3Wsn0AydT) _has been released about GM-Connect._
+Greater Manchester is one of the first UK city-regions to move ahead with a new city devolution deal. Other city-regions may follow their lead. As part of their devolution deal the public sector organisations in Greater Manchester are considering how to use data to improve public services. Part of this thinking has a strong focus on data sharing through a new organisation called GM-Connect. A [_press release](https://www.greatermanchester-ca.gov.uk/news/article/39/pioneering_data_service_to_connect_greater_manchester_to_improved_services) and [report](https://t.co/T3Wsn0AydT) has been released about GM-Connect.
 
-_This summary is intended to make the report more accessible and allow more people to understand the plans of GM-Connect so that they can engage with this important topic. Summarising like this can help people spot good things, bad things & missing things._
+<!-- more -->
 
-_This blog is not my views. It is a summary of the report. None of the meaning has been changed, if meaning has been changed then that is my mistake. Sorry. Do let me know and I’ll correct as appropriate._
+This summary is intended to make the report more accessible and allow more people to understand the plans of GM-Connect so that they can engage with this important topic. Summarising like this can help people spot good things, bad things & missing things.
+
+This blog is not my views. It is a summary of the report. None of the meaning has been changed, if meaning has been changed then that is my mistake. Sorry. Do let me know and I’ll correct as appropriate.
 
 #### Summary of report
 

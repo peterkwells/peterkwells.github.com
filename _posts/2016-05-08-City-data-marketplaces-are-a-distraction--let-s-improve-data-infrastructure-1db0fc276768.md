@@ -1,13 +1,8 @@
 ---
-title: 'City data marketplaces are a distraction, let’s improve data infrastructure'
-description: >-
-  I chaired a debate at the Open Data Institute (ODI) titled “What does a good
-  data market look like?” on 29 April. It was a timely debate.
-date: '2016-05-08T15:55:19.848Z'
-categories: []
-keywords: []
-slug: >-
-  /@peterkwells/city-data-marketplaces-are-a-distraction-lets-improve-data-infrastructure-1db0fc276768
+title: City data marketplaces are a distraction, let’s improve data infrastructure
+categories:
+- General
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
 I chaired a debate at the Open Data Institute (ODI) titled “[What does a good data market look like?](http://theodi.org/lunchtime-lectures/friday-lunchtime-lecture-what-does-a-good-data-market-look-like)” on 29 April. It was a timely debate.
@@ -15,6 +10,8 @@ I chaired a debate at the Open Data Institute (ODI) titled “[What does a good 
 [Data is infrastructure](http://theodi.org/what-is-data-infrastructure) at city, national and global levels. It is vital to our societies. It is important to strengthen it. Stable, reliable and well-maintained data infrastructure helps us make better decisions, it brings us new services and it supports innovation.
 
 There are voices arguing that [we need to move beyond the open data portal](https://medium.com/civic-technology/rethinking-data-portals-30b66f00585d#.kbvp1xa13). [Nesta](http://www.nesta.org.uk) have [argued that the Mayor of London should build a city data marketplace](http://www.nesta.org.uk/blog/mayor-whatever-you-want-do-data-can-help-you-do-it-better) and [Hitachi are building one in Copenhagen](http://cities-today.com/copenhagen-to-launch-worlds-first-city-data-marketplace/).
+
+<!-- more -->
 
 At the ODI we are keen to learn — and to share what we learn — so we arranged a debate to discuss the idea of a city data marketplace. The panellists were [Eddie Copeland](https://twitter.com/EddieACopeland) the Director of Government Innovation at Nesta; [Leigh Dodds](https://twitter.com/ldodds) a founder of [Bath:Hacked](http://www.bathhacked.org) and [ODI](https://theodi.org/team/leigh-dodds) associate; and [Yodit Stanton](https://twitter.com/yoditstanton) the founder of [Open Sensors](https://www.opensensors.io), a startup building IoT data infrastructure. Questions were taken from the audience in the room whilst those watching the live-stream asked questions via [the #ODIFridays hashtag](https://twitter.com/search?q=ODIFridays).
 

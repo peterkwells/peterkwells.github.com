@@ -1,15 +1,13 @@
 ---
-title: 'Newcastle: data roundtable July 2016'
-description: >-
-  Last Friday I was at Newcastle City libary at a roundtable event talking about
-  “innovative uses of data in the North East”. It was fun. I…
-date: '2016-07-18T20:26:26.955Z'
-categories: []
-keywords: []
-slug: /@peterkwells/newcastle-data-roundtable-july-2016-f9de3d297769
+title: Newcastle: data roundtable July 2016
+categories:
+- General
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
 Last Friday I was at Newcastle City libary at a roundtable event talking about “innovative uses of data in the North East”. It was fun. I thought it might be useful to share some high level notes.
+
+<!-- more -->
 
 #### Discussion points and attendees
 

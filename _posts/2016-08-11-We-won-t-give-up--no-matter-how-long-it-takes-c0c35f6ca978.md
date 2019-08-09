@@ -1,15 +1,13 @@
 ---
-title: 'We won’t give up, no matter how long it takes'
-description: >-
-  This is a redrafted version of an article that was published by SixStars in
-  The 1887 magazine sold at the Judgement Day 2 protest march in…
-date: '2016-08-11T17:46:12.388Z'
-categories: []
-keywords: []
-slug: /@peterkwells/we-wont-give-up-no-matter-how-long-it-takes-c0c35f6ca978
+title: We won’t give up, no matter how long it takes
+categories:
+- General
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
-_This is a redrafted version of an article that was published by_ [_SixStars_](http://sixstarsuk.bigcartel.com) _in_ [_The 1887 magazine_](http://sixstarsuk.bigcartel.com/product/the-1887-magazine-issue-1) _sold at the_ [_Judgement Day 2_](http://www.mirror.co.uk/sport/football/news/blackpool-fans-take-streets-around-7871707) _protest march in April 2016. More than 3000 fans marched. The march was organised by the_ [_Blackpool Supporters Trust_](http://sixstarsuk.bigcartel.com/product/the-1887-magazine-issue-1) _and the_ [_Tangerine Knights_](https://www.facebook.com/tangerineknightssupport/)_._
+This is a redrafted version of an article that was published by [SixStars](http://sixstarsuk.bigcartel.com) in [The 1887 magazine](http://sixstarsuk.bigcartel.com/product/the-1887-magazine-issue-1) sold at the [Judgement Day 2](http://www.mirror.co.uk/sport/football/news/blackpool-fans-take-streets-around-7871707) protest march in April 2016. More than 3000 fans marched. The march was organised by the_ [Blackpool Supporters Trust](http://sixstarsuk.bigcartel.com/product/the-1887-magazine-issue-1) and the [_Tangerine Knights](https://www.facebook.com/tangerineknightssupport/).
+
+<!-- more -->
 
 It may seem like there’s a long way to go for Blackpool fans, but we should be proud of what we have achieved
 

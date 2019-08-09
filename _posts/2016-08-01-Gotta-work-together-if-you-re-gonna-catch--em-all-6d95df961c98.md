@@ -1,18 +1,16 @@
 ---
 title: Gotta work together if you’re gonna catch ‘em all
-description: >-
-  The launch of Pokémon Go has seen the rebirth of a 90s craze in the smartphone
-  era. It’s a rebirth that leads to a tale about different…
-date: '2016-08-01T21:34:25.356Z'
-categories: []
-keywords: []
-slug: /@peterkwells/gotta-work-together-if-youre-gonna-catch-em-all-6d95df961c98
+categories:
+- General
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
 ![A cuddly [Psyduck](http://www.dorkly.com/post/76403/15-reasons-why-psyduck-is-the-most-legendary-pokemon-of-all) from the 1998 launch of Pokemon Red/Blue. Picture by [Mrs Gemstone](https://www.flickr.com/photos/gemstone/), CC-BY-SA.](https://cdn-images-1.medium.com/max/600/1*1QoXpW68OTKmCJRy07iQcw.jpeg)
 A cuddly [Psyduck](http://www.dorkly.com/post/76403/15-reasons-why-psyduck-is-the-most-legendary-pokemon-of-all) from the 1998 launch of Pokemon Red/Blue. Picture by [Mrs Gemstone](https://www.flickr.com/photos/gemstone/), CC-BY-SA.
 
 The launch of Pokémon Go has seen the rebirth of a 90s craze in the smartphone era. It’s a rebirth that leads to a tale about different worlds, data infrastructure, sensors and working together to improve our real world.
+
+<!-- more -->
 
 Pokémon Go is an AR (augmented reality) game. It is [not the first AR game](https://en.wikipedia.org/wiki/List_of_augmented_reality_software#Games), it is not even the first [where people roam their town catching monsters](http://technorthhq.com/pokemon-go-free-all-monsters/), but it is certainly the most popular so far. On one day last month [25 million people played it in the USA](http://www.gamespot.com/articles/pokemon-go-might-finally-have-hit-its-peak-number-/1100-6442135/). The craze might fade but we will see a wave of AR games and products over the next few years.
 

@@ -1,16 +1,13 @@
 ---
 title: The curious silence of Blackpool Council and its leader
-description: >-
-  Thousands of Blackpool fans are boycotting their football club. Fewer than
-  half of season ticket holders were going to home games at the…
-date: '2016-06-13T08:44:21.121Z'
-categories: []
-keywords: []
-slug: >-
-  /@peterkwells/the-curious-silence-of-blackpool-council-and-its-leader-c1b9be675fde
+categories:
+- General
+feature_image: "https://www.nasa.gov/sites/default/files/images/562317main_PIA14033_full.jpg"
 ---
 
 Thousands of Blackpool fans are boycotting their football club. [Fewer than half of season ticket holders](https://medium.com/@peterkwells/football-attendance-figures-are-inaccurate-and-don-t-tell-the-whole-story-b4e3f4859648#.8nh0hfaae) were going to home games at the end of last season and investigations show that [about 25% of season tickets have been renewed for the coming season](http://fansonline.net/blackpool/mb/view.php?id=2447984). The fans are boycotting until things change.
+
+<!-- more -->
 
 ![Image courtesy of a Blackpool fan — let me know who and I’ll credit :)](https://cdn-images-1.medium.com/max/600/1*PUvpQwkh6gNWmrYymXMJcg.png)
 Image courtesy of a Blackpool fan — let me know who and I’ll credit :)
