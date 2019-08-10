@@ -114,8 +114,8 @@ navigation_header:
   url: /search/
 
 navigation_footer:
-- title: Theme created by David Darnes, content all Peter Wells' own fault
-  url: https://darn.es
+- title: Theme created by [David Darnes](https://darn.es), content all Peter Wells' own fault
+  url: https://peterkwells.com
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/peterkwells
